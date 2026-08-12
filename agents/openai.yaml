@@ -1,0 +1,5 @@
+interface:
+  display_name: "中国高校双语专业课件"
+  short_description: "按教材制作、修订并质检中国高校双语授课PPT"
+  default_prompt: "使用 $chinese-bilingual-course-ppt 按教材、课堂投影和双语教学要求制作或复核这套授课PPT。"
+
